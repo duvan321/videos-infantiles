@@ -1,0 +1,36 @@
+body{
+    margin:auto;
+    font-family: 'Montserrat' sans-serif;
+}
+img{
+    width: 100%;
+    vertical-align: top;
+}
+section{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 7px 30px;
+    grid-row-gap: 15px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.fila3{
+    display:grid;
+    grid-template-columns: 1fr 30px;
+}
+.izquierda{
+    display: grid;
+    grid-template-columns: repeat(5,30px) 250px;
+    grid-column-gap: 25px;
+    align-items: center;
+}
+.barra1{
+    background-color: silver;
+    height: 7px;
+}
+.barra2{
+    background-color: crimson;
+    height: 100%;
+    width: 0%;
+}
