@@ -6,12 +6,13 @@
 <h3 align="center">The purpose of this project is in a short time you can see good children's videos for your whole family.
 </div>
 
-- - -
+---
 
 -🙎‍♂️ We have videos of:
-- *toy story*
--  *Madagascar.*
-- *Crazy bird.*
+
+- _toy story_
+- _Madagascar._
+- _Crazy bird._
 
 - 📫 How to contact me
 *diegoduvan321@gmail.com*
@@ -22,8 +23,8 @@
 <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" alt="JAVASCRIPT" width="40" height="40"/>&nbsp;
 
-
-- - -
+---
 
 ### 📊 My stats :
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duvan321&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
